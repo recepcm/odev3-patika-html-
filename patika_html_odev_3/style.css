@@ -1,0 +1,23 @@
+body{
+background-color: beige;
+
+}
+.q{
+text-align: center;
+border: solid red;
+border-radius: 100%;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+background-color: red;
+}
+
+.qwe{
+    text-decoration: underline;
+    
+}
+
+.qw{
+    margin-left: 33%;
+}
+
